@@ -30,7 +30,7 @@ A distribuição de pastas segue a hierarquia dos Katas:
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone https://github.com/lxzinxs/codewars-java-solutions.git
+   git clone https://github.com/lxzinxs/codewars
    ```
 
 2. **Abrir o Projeto:**
